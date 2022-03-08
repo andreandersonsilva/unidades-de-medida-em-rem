@@ -1,0 +1,27 @@
+.texto{
+    font-size:2em;
+}
+
+.texto h1{
+    font-size: 1em;
+}
+
+.texto p{
+    /*Tudo que não é fonte a unidade EM utiliza a medida base da TAG informada e não da TAG ou CLASS pai*/
+    padding: 0.5em;
+    margin-right: 3em;
+    border: 0.5em solid black;
+    font-size: 2em;
+}
+
+.texto p span{
+    font-size: 0.5em;
+}
+
+.comentarios{
+    font-size: 2rem;
+}
+
+.comentarios p{
+    font-size: 2rem;
+}
